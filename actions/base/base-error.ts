@@ -1,0 +1,3 @@
+interface BaseError {
+  message: string
+}
